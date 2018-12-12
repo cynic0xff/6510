@@ -1,0 +1,1 @@
+dasm hello.asm -ohello.prg
